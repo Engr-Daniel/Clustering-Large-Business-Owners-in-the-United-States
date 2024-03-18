@@ -1,9 +1,13 @@
 # CLUSTERING LARGE BUSINESS OWNERS IN THE UNITED STATE
-:-------------------------------------------------------
+-----------------------------------------------------------
+<img src="https://github.com/Engr-Daniel/Clustering-Large-Business-Owners-in-the-United-States/blob/master/Image/pca.png" alt="PCA Screenshot" width="400">
+
 
 Clustering of Large Business Owners in Us Project is to cluster Large business owners based on various attributes. 
 Through clustering algorithms, I aim to;
-- identify distinct groups within the large business owner population, and
+- identify distinct groups within the large business owner population,
+- build a clustering model, and
+- build an interactive dashboard
 - businesses can gain valuable insights, optimize decision-making processes, and drive growth and success in the competitive landscape of large business ownership in the US.
 
 ### Applications
@@ -13,7 +17,7 @@ Through clustering algorithms, I aim to;
 - Resource Allocation and Planning
 
 ### DATA
-:---------------------------------------------------
+-----------------------------------------------------------------
 [DATA](https://www.federalreserve.gov/econres/files/scfp2022excel.zip) is from [US FEDERAL RESERVE](https://www.federalreserve.gov/econres/scfindex.htm) Website
 
 The Survey of Consumer Finances (SCF) is normally a triennial cross-sectional survey of U.S. families. The survey data include information on families’ balance sheets, pensions, income, and demographic characteristics. Information is also included from related surveys of pension providers and the earlier such surveys conducted by the Federal Reserve Board. No other study for the country collects comparable information. Data from the SCF are widely used, from analysis at the Federal Reserve and other branches of government to scholarly work at the major economic research centers.
@@ -28,8 +32,10 @@ Start by installing [Anaconda](https://www.anaconda.com/distribution/)
 Next, clone this project by opening a terminal and typing the following commands (do not type the first $ signs on each line, they just indicate that these are terminal commands):
 
 `$ cd $HOME  # or any other development directory you prefer`
-`$ git clone https://github.com/tatsath/fin-ml.git`
-`$ cd "Clustering Large Business Owners in the US"
+
+`$ git clone https://github.com/Engr-Daniel/Clustering-Large-Business-Owners-in-the-United-States.git`
+
+`$ cd Clustering-Large-Business-Owners-in-the-United-State`
 
 
 ### Project Steps
@@ -48,5 +54,3 @@ Next, clone this project by opening a terminal and typing the following commands
 ### Acknowledgement
 
 Grateful to Nicholas, my tutor at WorldQuant University, for inspiring this project. His guidance has been invaluable.
-
-
