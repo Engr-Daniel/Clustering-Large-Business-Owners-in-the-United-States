@@ -1,7 +1,7 @@
 # CLUSTERING LARGE BUSINESS OWNERS IN THE UNITED STATE
 -----------------------------------------------------------
-<img src="https://github.com/Engr-Daniel/Clustering-Large-Business-Owners-in-the-United-States/blob/master/Image/pca.png" alt="PCA Screenshot" width="400">
 
+![Large Business Owners Clusters](https://github.com/Engr-Daniel/Clustering-Large-Business-Owners-in-the-United-States/assets/103637488/c145d8ad-1486-4661-b4f0-863329e04b19)
 
 Clustering of Large Business Owners in Us Project is to cluster Large business owners based on various attributes. 
 Through clustering algorithms, I aim to;
